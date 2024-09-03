@@ -1,0 +1,14 @@
+{
+  "name": "express-logger",
+  "version": "1.0.0",
+  "description": "A simple Express server that logs all requests and errors",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
+
